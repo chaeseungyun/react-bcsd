@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//chaeseungyun.github.io/react-bcsd/static/css/main.c50ae0df.css",
-    "main.js": "//chaeseungyun.github.io/react-bcsd/static/js/main.fe98c895.js",
-    "static/js/787.c47e4ea2.chunk.js": "//chaeseungyun.github.io/react-bcsd/static/js/787.c47e4ea2.chunk.js",
-    "index.html": "//chaeseungyun.github.io/react-bcsd/index.html",
-    "main.c50ae0df.css.map": "//chaeseungyun.github.io/react-bcsd/static/css/main.c50ae0df.css.map",
-    "main.fe98c895.js.map": "//chaeseungyun.github.io/react-bcsd/static/js/main.fe98c895.js.map",
-    "787.c47e4ea2.chunk.js.map": "//chaeseungyun.github.io/react-bcsd/static/js/787.c47e4ea2.chunk.js.map"
+    "main.css": "/react-bcsd/static/css/main.c50ae0df.css",
+    "main.js": "/react-bcsd/static/js/main.f8110bec.js",
+    "static/js/787.c47e4ea2.chunk.js": "/react-bcsd/static/js/787.c47e4ea2.chunk.js",
+    "index.html": "/react-bcsd/index.html",
+    "main.c50ae0df.css.map": "/react-bcsd/static/css/main.c50ae0df.css.map",
+    "main.f8110bec.js.map": "/react-bcsd/static/js/main.f8110bec.js.map",
+    "787.c47e4ea2.chunk.js.map": "/react-bcsd/static/js/787.c47e4ea2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c50ae0df.css",
-    "static/js/main.fe98c895.js"
+    "static/js/main.f8110bec.js"
   ]
 }
