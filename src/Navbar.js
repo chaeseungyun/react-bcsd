@@ -11,7 +11,7 @@ function NavibarSignIn() {
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto" />
                     <Nav>
-                        <Link to='/'><span style={{ color: 'white'}}>Sign In</span></Link>
+                        <Link to='/'><span style={{ color: 'white', marginRight: '10px' }}>Sign In</span></Link>
                         <Link to='/SignUpPage'><span style={{ color: 'white' }}>Sign Up</span></Link>
                     </Nav>
                 </Navbar.Collapse>
