@@ -10,8 +10,8 @@ function NavibarSignIn() {
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto" />
                     <Nav>
-                        <Nav.Link href="/"><span style={{ color: 'white' }}>Sign In</span></Nav.Link>
-                        <Nav.Link eventKey={2} href="/SignUpPage">
+                        <Nav.Link href="/react-bcsd"><span style={{ color: 'white' }}>Sign In</span></Nav.Link>
+                        <Nav.Link eventKey={2} href="/react-bcsd/SignUpPage">
                             <span style={{ color: 'white' }}>Sign Up</span>
                         </Nav.Link>
                     </Nav>
