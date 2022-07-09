@@ -1,5 +1,6 @@
 import React from "react";
 import { Navbar, Container, Nav } from 'react-bootstrap';
+import { Link } from "react-router-dom";
 
 function NavibarSignIn() {
     return (
@@ -10,10 +11,8 @@ function NavibarSignIn() {
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto" />
                     <Nav>
-                        <Nav.Link href="/react-bcsd"><span style={{ color: 'white' }}>Sign In</span></Nav.Link>
-                        <Nav.Link eventKey={2} href="/react-bcsd/SignUpPage">
-                            <span style={{ color: 'white' }}>Sign Up</span>
-                        </Nav.Link>
+                        <Link to='/'><span style={{ color: 'white'}}>Sign In</span></Link>
+                        <Link to='/SignUpPage'><span style={{ color: 'white' }}>Sign Up</span></Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>
